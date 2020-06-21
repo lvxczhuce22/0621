@@ -1,0 +1,31 @@
+### STS ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+.sts4-cache
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+/hx-eureka/target/
+/hx-zuul-shield/target/
+/auth-manage/target/
+/auth-dto/target/
+
+### NetBeans ###
+/nbproject/private/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+build/
+
+###sonar files###
+.scannerwork
+
+logPath_IS_UNDEFINED
